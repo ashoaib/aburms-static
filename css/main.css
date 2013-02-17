@@ -25,6 +25,8 @@ body.error h2 {
 
 #container {
 	width: 1024px;
+	position: relative;
+	margin: 0 auto;
 }
 
 header {
